@@ -49,9 +49,14 @@ Hệ thống đăng khiếu nại lên cho phép cư dân chung cư đăng và x
 ## Giao Diện Người Dùng
 - Thiết kế diễn đàn đơn giản, sạch sẽ
 - Một trang duy nhất cho tất cả chức năng
+
 - Biểu tượng và nút điều khiển dựa trên vai trò người dùng
 - Nút "Báo cáo" chỉ hiển thị cho quản trị viên trên mỗi thẻ khiếu nại
 - Thiết kế đáp ứng cho máy tính để bàn và di động
 - Giao diện tiếng Việt
+
+## Cách sử dụng web:
+Các bạn chỉ cần clone về và run. Rất nhanh và tiện lợi.
+
 - Tất cả tiêu đề, nút bấm và văn bản hiển thị sử dụng thuật ngữ "Đăng khiếu nại lên" thay vì "Diễn đàn khiếu nại"
 - Footer component có thông tin attribution về caffeine.ai được hiển thị tối thiểu và không nổi bật
