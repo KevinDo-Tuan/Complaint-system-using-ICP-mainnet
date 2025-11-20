@@ -58,5 +58,3 @@ Hệ thống đăng khiếu nại lên cho phép cư dân chung cư đăng và x
 ## Cách sử dụng web:
 Các bạn chỉ cần clone về và run. Rất nhanh và tiện lợi.
 
-- Tất cả tiêu đề, nút bấm và văn bản hiển thị sử dụng thuật ngữ "Đăng khiếu nại lên" thay vì "Diễn đàn khiếu nại"
-- Footer component có thông tin attribution về caffeine.ai được hiển thị tối thiểu và không nổi bật
